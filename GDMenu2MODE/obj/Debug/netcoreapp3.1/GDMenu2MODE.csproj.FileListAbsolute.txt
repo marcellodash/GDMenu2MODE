@@ -1,0 +1,11 @@
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\bin\Debug\netcoreapp3.1\GDMenu2MODE.exe
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\bin\Debug\netcoreapp3.1\GDMenu2MODE.deps.json
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\bin\Debug\netcoreapp3.1\GDMenu2MODE.runtimeconfig.json
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\bin\Debug\netcoreapp3.1\GDMenu2MODE.runtimeconfig.dev.json
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\bin\Debug\netcoreapp3.1\GDMenu2MODE.dll
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\bin\Debug\netcoreapp3.1\GDMenu2MODE.pdb
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\obj\Debug\netcoreapp3.1\GDMenu2MODE.csprojAssemblyReference.cache
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\obj\Debug\netcoreapp3.1\GDMenu2MODE.AssemblyInfoInputs.cache
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\obj\Debug\netcoreapp3.1\GDMenu2MODE.AssemblyInfo.cs
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\obj\Debug\netcoreapp3.1\GDMenu2MODE.dll
+C:\Repos19\GDMenu2MODE\GDMenu2MODE\obj\Debug\netcoreapp3.1\GDMenu2MODE.pdb

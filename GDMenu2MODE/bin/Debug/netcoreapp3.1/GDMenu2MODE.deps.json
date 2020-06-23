@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GDMenu2MODE/1.0.0": {
+        "runtime": {
+          "GDMenu2MODE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GDMenu2MODE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
